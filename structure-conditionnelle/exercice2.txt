@@ -1,0 +1,3 @@
+Résultat de l'exercie 2 
+nombre saissir 22
+reponse : Vous etes majeur
