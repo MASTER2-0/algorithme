@@ -1,0 +1,15 @@
+Algorithme majeur ;
+Var:
+          age,annee_naissance: entier ;
+
+
+
+Debut
+
+         Ecrire "entrer année de naissance" ;
+         Lire annee_naissance ;
+         age <----- 2025-annee_naissance ;
+         Si age > 18 alors :
+               Ecrire "Vous etes majeur" ;
+         FinSi
+Fin
